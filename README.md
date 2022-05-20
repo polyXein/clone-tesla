@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-Link to the page 
+
+## Link to the page 
 https://suarez-dev.github.io/clone-tesla/
+
 
 ## Available Scripts
 
