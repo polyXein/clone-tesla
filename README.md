@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Link to the page 
-https://polyXein.github.io/clone-tesla/
+https://polyxein.github.io/clone-tesla/
 
 
 ## Available Scripts
